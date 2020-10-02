@@ -23,7 +23,7 @@
 | Description | Hangman |
 | Due Date | 10-Oct-20 |
 | Status | Working on |
-| Location | https://github.com/Assignments/Project_0 |
+| Location |  https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_0 |
 | Self Grade | 100/100 |
 HOW TO PLAY: At Main Menu user can view stats, quit, or play the game. Type 'go' to launch. 'quit' or 'exit to quit User types in one letter at a time. Hangman will upate in real time. If you lose, game will ask to play again
 Type 'yes' or 'no' to play or not play again. You will be returned back to menu. Type quit or exit to quit program.|
