@@ -21,7 +21,7 @@
 | :--- | :--- |
 | Name | Build a Game |
 | Description | Hangman |
-| Due Date | 1-Jan-20 |
+| Due Date | 10-Oct-20 |
 | Status | Working on |
 | Location | https://github.com/Assignments/Project_0 |
 | Self Grade | 100/100 |
