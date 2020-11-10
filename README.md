@@ -34,7 +34,7 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 | Name | Value |
 | :--- | :--- |
 | Name | Kattis |
-| Description | All 3 Kattis Problems. Greetings, Quite A Problem, and One Chicken Per Person |
+| Description | 3 Kattis Problems: Greetings, Quite A Problem, and One Chicken Per Person |
 | Due Date | 16-Nov-2020 |
 | Status | Finished |
 | Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_1 |
