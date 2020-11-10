@@ -38,6 +38,6 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 | Due Date | 16-Nov-2020 |
 | Status | Finished |
 | Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_1 |
-| Self Grade | 90/100 |
+| Self Grade | 80/100 |
 | Notes | All 3 problems are in their respective folders. With png screenshots for kattis, as well as screenshots for the test cases written |
 
