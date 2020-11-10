@@ -22,7 +22,7 @@
 | Name | Build a Game |
 | Description | Hangman |
 | Due Date | 10-Oct-20 |
-| Status | Working on |
+| Status | Finished |
 | Location |  https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_0 |
 | Self Grade | 100/100 |
 HOW TO PLAY: Python3 ./Hangman.py to launch 
@@ -33,11 +33,11 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 
 | Name | Value |
 | :--- | :--- |
-| Name | Egypt |
-| Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
-| Due Date | 1-Feb-2020 |
-| Status | In-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
-| Self Grade | - |
-| Notes | completed the solution; need to write test cases |
+| Name | Kattis |
+| Description | All 3 Kattis Problems. Greetings, Quite A Problem, and One Chicken Per Person |
+| Due Date | 16-Nov-2020 |
+| Status | Finished |
+| Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_1 |
+| Self Grade | 90/100 |
+| Notes | All 3 problems are in their respective folders. With png screenshots for kattis, as well as screenshots for the test cases written |
 
