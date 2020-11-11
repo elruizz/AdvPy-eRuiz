@@ -1,9 +1,9 @@
 #Ethan Ruiz
 import socket
 import threading
-
+# Connect using TCP connection to scan for ports.
 def Connect(ip, port, _wait, output):
-    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) # Create socket connection getting (host, port) pair from AF_INET
     sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     sock.settimeout(_wait)
     try:
@@ -31,31 +31,32 @@ def Scan(host, _wait):
             print(str(port) + ': ' + output[port])
 
 
-def check_ip(host):
-    a = host.split('.')
-    if len(a) != 4:
-        return False
-    for x in a:
-        if not x.isdigit():
-            return False
-        i = int(x)
-        if i < 0 or i > 255:
-            return False
-    return True
+def check_ip(s):
+   try:
+       return str(int(s)) == s and 0 <= int(s) <= 255
+   except:
+       return False
 
+def validate(ip):
+    if ip.count(".") == 3 and all(check_ip(i) for i in ip.split(".")):
+       return True
+    return False
 
-def main():
-	while True:
-		host = input("Enter Scanning Target: ")
-		if check_ip(host) == False:
-			print('Please enter a valid ip')
+def console():
+    while True:
+		host = input("Enter IP to Scan: ")
+		if validate(host) == False:
+			print('Please enter a valid IPv4 Address')
 			host = input("Enter Scanning Target: ")
 			break
-		elif check_ip(host) == True:
+		elif validate(host) == True:
 			break
 
 	_wait = int(input("Enter seconds before timeout: "))
 	Scan(host, _wait)
+
+def main():
+    console()
 
 if __name__ == "__main__":
     main()
