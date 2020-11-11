@@ -47,9 +47,9 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 | Name | Value |
 | :--- | :--- |
 | Name | Final |
-| Description | Packet sniffer written in python. |
+| Description | Port Scanner |
 | Due Date | 3-Dec-2020 |
-| Status | Working On |
+| Status | Finished |
 | Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_2 |
 | Self Grade | 100/100 |
-| Notes |  |
+| Notes | A Port Scanner written in python. Uses threading to scan for all available ports before outputting list of ports to user. |
