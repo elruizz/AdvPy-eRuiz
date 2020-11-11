@@ -12,8 +12,8 @@ from greetings import answer
 
 class TestGreetings(unittest.TestCase):
 	def test1_answer(self):
-		input1 = 'hey'
-		self.assertEqual(answer(input1), 'heey')
+		input1 = 'heeey'
+		self.assertEqual(answer(input1), 'heeeeeey')
 	def test2_answer(self):
 		input2 = 'heey'
 		self.assertEqual(answer(input2), 'heeeey')
