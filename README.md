@@ -41,3 +41,15 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 | Self Grade | 80/100 |
 | Notes | All 3 problems are in their respective folders. With png screenshots for kattis, as well as screenshots for the test cases written |
 
+
+### Assignment #3
+
+| Name | Value |
+| :--- | :--- |
+| Name | Final |
+| Description | Packet sniffer written in python. |
+| Due Date | 3-Dec-2020 |
+| Status | Working On |
+| Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_2 |
+| Self Grade | 100/100 |
+| Notes |  |
