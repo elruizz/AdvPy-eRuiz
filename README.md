@@ -50,6 +50,6 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 | Description | Port Scanner |
 | Due Date | 3-Dec-2020 |
 | Status | Finished |
-| Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_2(Final)|
+| Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Final|
 | Self Grade | 100/100 |
-| Notes | A Port Scanner written in python. Uses threading to scan for all available ports before outputting list of ports to user. |
+| Notes | A Port Scanner written in python. Uses threading to scan for all available ports before outputting list of ports to user. <br /> Checks for valid IPv4 address |
