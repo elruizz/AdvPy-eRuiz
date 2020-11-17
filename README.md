@@ -34,7 +34,7 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 | Name | Value |
 | :--- | :--- |
 | Name | Kattis |
-| Description | 3 Kattis Problems:<br />Greetings 1.6 Difficulty <br />Quite A Problem 2.2 Difficulty <br />One Chicken Per Person 1.7 |
+| Description | 3 Kattis Problems:<br />Greetings 1.6 Difficulty <br />Quite A Problem 2.2 Difficulty <br />One Chicken Per Person 1.7 Difficulty |
 | Due Date | 16-Nov-2020 |
 | Status | Finished |
 | Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_1 |
@@ -47,9 +47,9 @@ Type 'yes' or 'no' to play or not play again. You will be returned back to menu.
 | Name | Value |
 | :--- | :--- |
 | Name | Final |
-| Description | Packet sniffer written in python. |
+| Description | Port Scanner |
 | Due Date | 3-Dec-2020 |
-| Status | Working On |
-| Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Project_2 |
+| Status | Finished |
+| Location | https://github.com/elruizz/AdvPy-eRuiz/Assignments/Final|
 | Self Grade | 100/100 |
-| Notes |  |
+| Notes | A Port Scanner written in python. Uses threading and a TCP connection to scan for all available ports before outputting list of ports to user. <br /> Checks for valid IPv4 address |
