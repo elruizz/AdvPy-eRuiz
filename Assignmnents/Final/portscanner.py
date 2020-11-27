@@ -47,7 +47,7 @@ def console():
 		host = input("Enter IP to Scan: ")
 		if validate(host) == False:
 			print('Please enter a valid IPv4 Address')
-			host = input("Enter Scanning Target: ")
+			host = input("Enter IP to Scan: ")
 			break
 		elif validate(host) == True:
 			break
